@@ -20,5 +20,5 @@ A zipped copy of the compiled prototype we used is included in "Prototype.7z". T
 Project files are also included in this repository for future maintenance/updates/bug fixing.
 
 ## Project Poster
-![Capstone Poster.png](https://github.com/crh489/NAU2023Kyber/blob/master/Capstone%20Poster.png?raw=true)
+![Capstone Poster.png](https://github.com/crh489/NAU2023Kyber/blob/main/Capstone%20Poster.png?raw=true)
 *Poster displaying project results.*
